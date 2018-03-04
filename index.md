@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Nhưng chú ý khi code React 2018
 
-You can use the [editor on GitHub](https://github.com/nguyenduyta/nguyenduyta.me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Sử dụng Prettier
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Source github: https://github.com/prettier/prettier
 
-### Markdown
+Đây là một công cụ chuẩn hoá coding convention. Trong một dự án, việc coding covention là khá quan trọng, điều đó chúng ta không thể phủ nhận. Xong việc tuân thủ coding covention  là rất khó để ý cả cho người code lẫn cho người review. Do đó việc ứng dụng những công cụ tự động trong khi code đã trở nên quan trọng.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Không dùng React.createClass
 
-```markdown
-Syntax highlighted code block
+https://khoanguyen.me/react-component-voi-react-create-class/
 
-# Header 1
-## Header 2
-### Header 3
+Đơn giản vì ES6 đã ngày càng trở nên phổ biến và thay thế cho Mixins với cú pháp thân thuộc, ngắn gọn.
 
-- Bulleted
-- List
+## Sử dụng Stateless Fuctional Component trong khả năng có thể
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nguyenduyta/nguyenduyta.me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
